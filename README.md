@@ -38,8 +38,7 @@
         <p><strong>Status:</strong> <span style="color: #FFC107;">✅ AVAILABLE</span></p>
         <ul align="left">
           <li>Auto-Farm & Auto Glitch</li>
-          <li>Auto Rebirths</li>
-          <li>PvP Enhancements & ESP Features</li>
+          <li>Auto Rebirths & Teleports</li>
         </ul>
         <a href="https://discord.gg/EWECJqty9D">
           <img src="https://img.shields.io/badge/Join_Discord!!!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord!!!"/>
