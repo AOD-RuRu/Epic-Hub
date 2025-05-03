@@ -33,6 +33,49 @@
   </table>
 </div>
 
+### 🌟 Contributors & Friends
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Cris" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <p><b>Cris</b></p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Bella" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <p><b>Bella</b></p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/RuRu" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <p><b>RuRu</b></p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/redcool" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <p><b>redcool</b></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Maria" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <p><b>Maria</b></p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Undone" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <p><b>Undone</b></p>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Doca" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <p><b>Alfrad</b></p>
+      </td>
+      <td align="center" width="120">
+        <div style="width: 80px; height: 80px; border-radius: 50%; background-color: #5865F2; margin: 0 auto; display: flex; align-items: center; justify-content: center; font-size: 30px; color: white;">+</div>
+        <p><b>Join Us</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📱 Join Our Community
 
 <div align="center">
