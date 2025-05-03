@@ -33,12 +33,12 @@
         </a>
       </td>
       <td align="center" width="400" style="background-color: #1a1a2e; border-radius: 10px; padding: 20px;">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/Blox%20Fruits" width="550" height="200" style="border-radius: 10px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/80x80?text=Blox+Fruits'"/>
-        <h3>🏴‍☠️ Blox Fruits</h3>
-        <p><strong>Status:</strong> <span style="color: #FFC107;">NOT WORKING :(</span></p>
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Legends%20of%20Speed" width="550" height="200" style="border-radius: 10px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/80x80?text=Blox+Fruits'"/>
+        <h3>⚡ Legends of Speed</h3>
+        <p><strong>Status:</strong> <span style="color: #FFC107;">✅ AVAILABLE</span></p>
         <ul align="left">
-          <li>Auto-Farm</li>
-          <li>Auto-Quest & Raid</li>
+          <li>Auto-Farm & Auto Glitch</li>
+          <li>Auto Rebirths</li>
           <li>PvP Enhancements & ESP Features</li>
         </ul>
         <a href="https://discord.gg/EWECJqty9D">
