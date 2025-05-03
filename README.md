@@ -14,6 +14,80 @@
   </div>
 </div>
 
+## 🎮 Premium Game Scripts
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="400" style="background-color: #1a1a2e; border-radius: 10px; padding: 20px;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Muscle%20Legends" width="550" height="200" style="border-radius: 10px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/80x80?text=Muscle+Legends'"/>
+        <h3>💪 Muscle Legends</h3>
+        <p><strong>Status:</strong> <span style="color: #4CAF50;">✅ AVAILABLE</span></p>
+        <ul align="left">
+          <li>Auto-Farm Strength, Durabiltiy & More</li>
+          <li>Auto-Rebirth & Auto-Hatch Pets</li>
+          <li>Teleport & ETC</li>
+        </ul>
+        <a href="https://discord.gg/EWECJqty9D">
+          <img src="https://img.shields.io/badge/Join_Discord!!!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord!!!"/>
+        </a>
+      </td>
+      <td align="center" width="400" style="background-color: #1a1a2e; border-radius: 10px; padding: 20px;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Blox%20Fruits" width="550" height="200" style="border-radius: 10px; object-fit: cover;" onerror="this.src='https://via.placeholder.com/80x80?text=Blox+Fruits'"/>
+        <h3>🏴‍☠️ Blox Fruits</h3>
+        <p><strong>Status:</strong> <span style="color: #FFC107;">:( NOT WORKING</span></p>
+        <ul align="left">
+          <li>Auto-Farm</li>
+          <li>Auto-Quest & Raid</li>
+          <li>PvP Enhancements & ESP Features</li>
+        </ul>
+        <a href="https://discord.gg/EWECJqty9D">
+          <img src="https://img.shields.io/badge/Join_Discord!!!-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord!!!"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <a href="https://discord.gg/EWECJqty9D">
+    <img src="https://img.shields.io/badge/View_All_Scripts-5865F2?style=for-the-badge&logo=gamepad&logoColor=white" alt="View All Scripts"/>
+  </a>
+</div>
+
+## 🚀 Premium Features
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%" style="background-color: #1a1a2e; border-radius: 10px; padding: 15px;">
+        <h3>🔄 Regular Updates</h3>
+        <p>Our scripts are constantly updated to match the latest game versions, ensuring uninterrupted gameplay</p>
+      </td>
+      <td align="center" width="33%" style="background-color: #1a1a2e; border-radius: 10px; padding: 15px;">
+        <h3>🛡️ Anti-Detection</h3>
+        <p>Advanced protection systems to minimize ban risk while maximizing script performance</p>
+      </td>
+      <td align="center" width="33%" style="background-color: #1a1a2e; border-radius: 10px; padding: 15px;">
+        <h3>💬 24/7 Support</h3>
+        <p>Dedicated support team available around the clock to assist with any issues or questions</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%" style="background-color: #1a1a2e; border-radius: 10px; padding: 15px;">
+        <h3>🎨 Sleek UI</h3>
+        <p>Intuitive, customizable interface designed for both aesthetics and functionality</p>
+      </td>
+      <td align="center" width="33%" style="background-color: #1a1a2e; border-radius: 10px; padding: 15px;">
+        <h3>⚡ Optimized Performance</h3>
+        <p>Scripts designed to run efficiently with minimal impact on your game's performance</p>
+      </td>
+      <td align="center" width="33%" style="background-color: #1a1a2e; border-radius: 10px; padding: 15px;">
+        <h3>🔧 Customization</h3>
+        <p>Tailor your experience with extensive configuration options for all features</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 👥 Our Team
 
 <div align="center">
