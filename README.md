@@ -14,6 +14,59 @@
   </div>
 </div>
 
+## 👥 Our Team
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Zypher" width="150" height="150" style="border-radius: 50%; border: 4px solid #5865F2;">
+        <h3>Zypher</h3>
+        <p style="background-color: #5865F2; padding: 5px 15px; border-radius: 20px; display: inline-block;">👑 Founder & Lead Developer</p>
+      </td>
+      <td align="center" width="250">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/Cris" width="150" height="150" style="border-radius: 50%; border: 4px solid #5865F2;">
+        <h3>Cris</h3>
+        <p style="background-color: #5865F2; padding: 5px 15px; border-radius: 20px; display: inline-block;">🛡️ Co Founder</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📱 Join Our Community
+
+<div align="center">
+  <p>Join our thriving community for script updates, support, and exclusive content!</p>
+  
+  <a href="https://discord.gg/EWECJqty9D">
+    <img src="https://img.shields.io/badge/Discord-Main_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
+  </a>
+  
+  <a href="https://discord.gg/WzqTSJ94wW">
+    <img src="https://img.shields.io/badge/Discord-Alternative_Link-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Alternative Discord Link">
+  </a>
+  
+  <br><br>
+  
+  <table>
+    <tr>
+      <td align="center" style="background-color: #1a1a2e; border-radius: 10px; padding: 20px;">
+        <h3>🎁 Join Our Discord For</h3>
+        <ul align="left">
+          <li>Free script access and premium features</li>
+          <li>Exclusive giveaways and events</li>
+          <li>Direct support from our development team</li>
+          <li>Early access to new scripts and updates</li>
+          <li>Connect with other script enthusiasts</li>
+        </ul>
+        <a href="https://discord.gg/EWECJqty9D">
+          <img src="https://img.shields.io/badge/JOIN_NOW-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Now">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## ⚠️ Disclaimer
 
 <div align="center">
