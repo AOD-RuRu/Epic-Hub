@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/XCL-Zypher/test/blob/main/Logo" alt="Murderer Hub Logo" width="250px"/>
+  <img src="https://github.com/XCL-Zypher/test/blob/main/Murderer" alt="Murderer Hub Logo" width="250px"/>
   
   # ✨ Murderer Hub ✨
   
