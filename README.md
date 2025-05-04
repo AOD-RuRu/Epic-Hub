@@ -124,21 +124,21 @@
         <p><b>RuRu</b></p>
       </td>
       <td align="center" width="120">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/redcool" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(6).gif" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
         <p><b>redcool</b></p>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/Maria" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(7).gif" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
         <p><b>Maria</b></p>
       </td>
       <td align="center" width="120">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/Undone" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(8).gif" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
         <p><b>Undone</b></p>
       </td>
       <td align="center" width="120">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/Doca" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(9).gif" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
         <p><b>Alfrad</b></p>
       </td>
       <td align="center" width="120">
