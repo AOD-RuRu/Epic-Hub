@@ -93,7 +93,7 @@
   <table>
     <tr>
       <td align="center" width="250">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/Zypher" width="150" height="150" style="border-radius: 50%; border: 4px solid #5865F2;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(2).gif" width="150" height="150" style="border-radius: 50%; border: 4px solid #5865F2;">
         <h3>Zypher</h3>
         <p style="background-color: #5865F2; padding: 5px 15px; border-radius: 20px; display: inline-block;">👑 Founder & Lead Developer</p>
       </td>
