@@ -98,7 +98,7 @@
         <p style="background-color: #5865F2; padding: 5px 15px; border-radius: 20px; display: inline-block;">👑 Founder & Lead Developer</p>
       </td>
       <td align="center" width="250">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/Cris" width="150" height="150" style="border-radius: 50%; border: 4px solid #5865F2;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(3).gif" width="150" height="150" style="border-radius: 50%; border: 4px solid #5865F2;">
         <h3>Cris</h3>
         <p style="background-color: #5865F2; padding: 5px 15px; border-radius: 20px; display: inline-block;">🛡️ Co Founder</p>
       </td>
@@ -112,7 +112,7 @@
   <table>
     <tr>
       <td align="center" width="120">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/Cris" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(3).gif" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
         <p><b>Cris</b></p>
       </td>
       <td align="center" width="120">
