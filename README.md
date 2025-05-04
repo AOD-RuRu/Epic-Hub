@@ -120,7 +120,7 @@
         <p><b>Bella</b></p>
       </td>
       <td align="center" width="120">
-        <img src="https://github.com/XCL-Zypher/test/blob/main/RuRu" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
+        <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(5).gif" width="80" height="80" style="border-radius: 50%; border: 3px solid #5865F2;">
         <p><b>RuRu</b></p>
       </td>
       <td align="center" width="120">
