@@ -189,14 +189,14 @@
   <table>
     <tr>
       <td style="background-color: #1a1a2e; border-radius: 10px; padding: 20px;">
-        <p>By using Murderer Hub, you acknowledge and accept full responsibility for any consequences that may arise, including potential account bans. We are not liable for any undesirable outcomes or dissatisfaction with script updates. If you disagree with these terms, please refrain from using our services.</p>
+        <p>By using Epic-Hub, you acknowledge and accept full responsibility for any consequences that may arise, including potential account bans. We are not liable for any undesirable outcomes or dissatisfaction with script updates. If you disagree with these terms, please refrain from using our services.</p>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <p>© 2025 Murderer Hub. All Rights Reserved.</p>
+  <p>© 2025 Epic-Hub. All Rights Reserved.</p>
   <p>
     <img src="https://img.shields.io/badge/Made_with-❤️-ff69b4?style=flat-square" alt="Made with Love">
     <img src="https://img.shields.io/badge/Op_YEAH-!-orange?style=flat-square" alt="OP?_YEAH!">
