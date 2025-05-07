@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/XCL-Zypher/test/blob/main/standard%20(11).gif" alt="Murderer Hub Logo" width="250px"/>
   
-  # ✨ Murderer Hub ✨
+  # ✨ Epic-Hub ✨
   
   <p><em>Dominate Your Games with Premium Scripts</em></p>
   
